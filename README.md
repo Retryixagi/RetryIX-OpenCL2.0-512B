@@ -142,6 +142,19 @@ If you're reproducing this on another machine, ensure:
 
 ---
 
+## 📦 SDK Requirement / 所需 SDK
+
+### ✅ This project requires an OpenCL 2.0 ICD SDK to build and run.
+Please refer to the open-source SDK provided here:
+👉 https://github.com/Retryixagi/2025_OpenCL2.0
+
+📦 本專案需搭配 OpenCL 2.0 ICD SDK 進行建置與執行
+
+請參考我自製的開源 SDK 倉庫：
+👉 https://github.com/Retryixagi/2025_OpenCL2.0
+
+---
+
 ## ⚖️ 版權聲明與授權條款 / Copyright & Licensing
 
 本專案為 RetryIX AGI 原創技術模組，並採以下授權方式開放：
