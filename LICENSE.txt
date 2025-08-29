@@ -1,0 +1,47 @@
+
+# LICENSE
+
+## RetryIX-OpenCL2.0-512B Licensing Terms
+
+This software and its components are intellectual property of RetryIX AGI.
+
+---
+
+## ✅ Free License Scope
+
+You are granted a **free, non-exclusive, non-transferable** license to use this project for:
+
+- Personal exploration and learning
+- Academic research and educational demonstration
+- Non-commercial reproducibility and benchmarking
+
+---
+
+## ❌ Prohibited Uses
+
+The following activities are **strictly prohibited** without prior written authorization:
+
+- Publishing modified or renamed versions as a derivative product
+- Claiming partial or full authorship over this module or its algorithmic components
+- Commercial resale or bundling of this module in any SaaS, toolkit, SDK, or packaged distribution
+- Use in monetized applications, platforms, or consulting deliverables
+
+> Forking for open research reference is allowed, but may not alter branding or author attribution.
+
+---
+
+## 💼 Commercial Licensing
+
+If you wish to use this module in a commercial project or product, you must obtain explicit permission and a written license from RetryIX AGI.
+
+Please contact:
+**ixu@retryixagi.com**  
+https://retryixagi.com
+
+---
+
+## 📜 Copyright
+
+(C) 2025 RetryIX AGI Inc. All rights reserved.
+
+This codebase is protected by digital authorship evidence and active monitoring. Violations will be legally pursued.
