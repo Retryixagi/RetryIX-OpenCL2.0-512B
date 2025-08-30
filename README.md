@@ -181,6 +181,16 @@ Please refer to the open-source SDK provided here:
 📩 Email: ixu@retryixagi.com  
 🌐 Site: [https://retryixagi.com](https://retryixagi.com)
 
+## 🙏 Acknowledgements / 感謝
+
+This project was developed with the support of various advanced AI assistants that helped with architecture review, code verification, and language editing. Special thanks to:
+
+- [ChatGPT-4o](https://openai.com/chatgpt): for cross-verifying algorithmic logic and assisting in technical writing  
+- Claude (Anthropic): for stress-testing early architectural assumptions  
+- GitHub Copilot: for real-time code auto-completion and pattern guidance
+
+本專案的誕生，離不開多種 AI 工具的輔助，特別是在架構設計、語義驗證、語言統整等方面提供了極大幫助。特此致謝。
+
 本專案已登錄技術原始證據，所有侵權行為將依法追訴。
 
 > This project is protected under full technical authorship and will enforce licensing violations.
