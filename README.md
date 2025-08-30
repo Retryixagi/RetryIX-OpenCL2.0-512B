@@ -13,7 +13,6 @@
 - ✅ 4MB 區塊級記憶體編碼 / Block-level memory encoding
 - ✅ 512B 對齊記憶體存取 / 512B-aligned memory access
 - ✅ 基於 OpenCL 2.0 的共享虛擬記憶體（SVM） / Uses Shared Virtual Memory (SVM)
-- ✅ 不含加密或區塊鏈模組 / No cryptographic or blockchain modules
 - ✅ 無需 ROCm / CUDA 環境 / No ROCm / CUDA required
 - ✅ 相容各類 OpenCL ICD 驅動 / Compatible with OpenCL ICD (Intel, AMD, Mesa)
 
