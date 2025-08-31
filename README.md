@@ -225,10 +225,7 @@ This project was developed with the support of various advanced AI assistants th
 
 本專案已登錄技術原始證據，所有侵權行為將依法追訴。
 
-📢 建議新增段落 (中英文)
-中文
-
-##🤝 開放創新聲明
+🤝 開放創新聲明
 RetryIX 誠摯歡迎全球研究者、開發者與產業伙伴基於本技術進行創新探索與合作。我們堅信 共利共享 才能推動真正的技術突破。
 
 本技術可自由研究、測試與發展延伸應用
@@ -241,7 +238,7 @@ RetryIX 誠摯歡迎全球研究者、開發者與產業伙伴基於本技術進
 
 English
 
-##🤝 Open Innovation Statement
+🤝 Open Innovation Statement
 RetryIX warmly welcomes researchers, developers, and industry partners worldwide to explore and innovate based on this technology. We believe that shared benefits and open collaboration are the true drivers of breakthroughs.
 
 This technology may be freely studied, tested, and extended for new applications
