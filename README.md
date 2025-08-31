@@ -1,3 +1,36 @@
+# RetryIX Memory RAID Engine
+
+## 🚀 最新動態 / Latest Updates
+
+### 中文
+
+🔬 **最新進展預告**
+我們已成功完成 **4MB 與 8MB / 4096B 對齊編碼技術** 的穩定化運行，並已送交學術界進行驗證與研究。
+此技術不僅突破現有記憶體編碼瓶頸，也已具備實際應用價值。未來我們將：
+
+* ✨ 向 **arXiv** 提交技術論文，取得國際學術認證
+* 💼 採取 **商業授權模式**，針對產業應用提供正式授權與技術支持
+
+這是 RetryIX 在 **記憶體架構與高效能運算** 領域邁出的關鍵一步，更多細節將於正式論文與授權公告中揭曉。
+
+---
+
+### English
+
+🔬 **Upcoming Milestone Announcement**
+We have successfully achieved **stable execution of 4MB and 8MB / 4096B-aligned encoding techniques**, now undergoing academic validation and peer research.
+This breakthrough not only overcomes existing memory encoding bottlenecks but also demonstrates strong potential for real-world applications. Moving forward, we will:
+
+* ✨ Submit a technical paper to **arXiv** for international academic recognition
+* 💼 Adopt a **commercial licensing model** to provide formal authorization and technical support for industry use cases
+
+This marks a crucial step for RetryIX in the field of **memory architecture and high-performance computing**. More details will be unveiled in the official paper and licensing announcements.
+
+---
+
+## 📚 原始說明 / Original Documentation
+
+---
 
 # RetryIX-OpenCL2.0-512B
 
