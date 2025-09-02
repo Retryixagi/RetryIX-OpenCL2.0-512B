@@ -92,16 +92,6 @@ gcc retryix_cli.c retryix_device_utils.c retryix_host.c -lOpenCL -o retryix_cli
 
 ---
 
-## ⚠️ No Blockchain / 無區塊鏈依賴
-
-本專案未使用任何區塊鏈、加密、分散式架構。  
-所有模組皆為本地 C 語言實作，專為開源與重現性設計。
-
-This project includes no blockchain, crypto, or decentralized tech.  
-All modules are pure local C-level implementations.
-
----
-
 ## 📜 License / 授權條款
 
 Dual License / 雙授權：
