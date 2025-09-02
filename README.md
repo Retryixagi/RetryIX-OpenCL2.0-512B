@@ -226,6 +226,19 @@ RetryIX 誠摯歡迎全球研究者、開發者與產業伙伴基於本技術進
 
 我們希望這項技術成為 合作、共利、免責 的基礎，推動全人類的智慧進步。
 
+## 🤝 創新授權政策 / Open Collaboration & Licensing Policy
+
+- 對齊編碼技術對所有個人、學術用途**永久免費**，鼓勵大家自由探索、創新應用。
+- 如果你能在個人或學術領域玩出新境界、解決新問題，  
+  只要主動聯繫我並獲得授權，就能享有**高額分潤**與技術合作機會。
+- **免法律責任**：所有經授權合作的個人或學術用戶，無須承擔任何法律風險，  
+  這一點是 RetryIX 技術生態獨有的開放保障。
+
+> 「我們相信知識共享與合作創新才是推動技術進步的核心。  
+> 只要你有創意、有成果，聯繫授權後，分潤與技術支持都由我來負責，  
+> 你專注於創新，其他風險交給我！」
+
+
 English
 
 🤝 Open Innovation Statement
@@ -238,6 +251,15 @@ Contributions and feedback are encouraged to foster knowledge co-creation
 Any legal responsibilities arising from usage remain solely with the user
 
 Our vision is for this technology to serve as a foundation of collaboration, shared benefits, and liability-free innovation, advancing collective human intelligence.
+
+**This is what sets RetryIX apart from traditional licensing:**  
+- Personal and academic use is always free;
+- If you create new breakthroughs, simply contact for authorization to receive generous profit sharing;
+- All authorized users are exempt from legal liabilities—innovation without risk!
+- We believe collaboration and open innovation are the real engine of progress.
+
+Contact: [ixu@retryixagi.com](mailto:ixu@retryixagi.com)  
+More info: [https://retryixagi.com](https://retryixagi.com)
 
 > This project is protected under full technical authorship and will enforce licensing violations.
 
