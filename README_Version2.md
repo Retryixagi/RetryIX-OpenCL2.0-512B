@@ -181,6 +181,22 @@ This project was developed with the support of various advanced AI assistants:
 - ChatGPT-4o: algorithmic logic cross-verification, technical writing
 - Claude (Anthropic): architecture stress-testing
 - GitHub Copilot: code auto-completion & pattern guidance
+> 註：本專案的誕生，有賴於多種先進 AI 助手的支持。  
+> 我誠實告知，自己並非傳統程式背景出身，甚至不懂代碼，  
+> 但憑藉 AI 工具的協助，仍能獨立完成技術架構、功能開發與文檔撰寫。  
+> 這不僅是個人努力的成果，更是 AI 時代帶來的創新可能。
+
+## 🙏 Acknowledgements / 感謝
+
+This project was developed with the support of various advanced AI assistants:
+
+- ChatGPT-4o: algorithmic logic cross-verification, technical writing
+- Claude (Anthropic): architecture stress-testing
+- GitHub Copilot: code auto-completion & pattern guidance
+
+> 我堅持將此段致謝公開於專案文件中，無論任何質疑，  
+> 都希望誠實記錄 AI 技術如何協助一位非程式背景者完成獨立開發，  
+> 讓更多人看見「AI賦能個人創新」的真實力量。
 
 ---
 
